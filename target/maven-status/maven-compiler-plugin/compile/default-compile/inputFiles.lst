@@ -1,0 +1,10 @@
+D:\JORGE\ALURA\Java y Spring Framework G7 - ONE\Java-trabajando-con-lambdas-streams-y-Spring-Framework\desafio\src\main\java\com\aluracursos\libros\desafio\DesafioApplication.java
+D:\JORGE\ALURA\Java y Spring Framework G7 - ONE\Java-trabajando-con-lambdas-streams-y-Spring-Framework\desafio\src\main\java\com\aluracursos\libros\desafio\model\Datos.java
+D:\JORGE\ALURA\Java y Spring Framework G7 - ONE\Java-trabajando-con-lambdas-streams-y-Spring-Framework\desafio\src\main\java\com\aluracursos\libros\desafio\model\DatosAutor.java
+D:\JORGE\ALURA\Java y Spring Framework G7 - ONE\Java-trabajando-con-lambdas-streams-y-Spring-Framework\desafio\src\main\java\com\aluracursos\libros\desafio\model\DatosLibros.java
+D:\JORGE\ALURA\Java y Spring Framework G7 - ONE\Java-trabajando-con-lambdas-streams-y-Spring-Framework\desafio\src\main\java\com\aluracursos\libros\desafio\principal\Principal.java
+D:\JORGE\ALURA\Java y Spring Framework G7 - ONE\Java-trabajando-con-lambdas-streams-y-Spring-Framework\desafio\src\main\java\com\aluracursos\libros\desafio\services\BuscarBiografia.java
+D:\JORGE\ALURA\Java y Spring Framework G7 - ONE\Java-trabajando-con-lambdas-streams-y-Spring-Framework\desafio\src\main\java\com\aluracursos\libros\desafio\services\BuscarLibro.java
+D:\JORGE\ALURA\Java y Spring Framework G7 - ONE\Java-trabajando-con-lambdas-streams-y-Spring-Framework\desafio\src\main\java\com\aluracursos\libros\desafio\services\ConsumoAPI.java
+D:\JORGE\ALURA\Java y Spring Framework G7 - ONE\Java-trabajando-con-lambdas-streams-y-Spring-Framework\desafio\src\main\java\com\aluracursos\libros\desafio\services\ConvierteDatos.java
+D:\JORGE\ALURA\Java y Spring Framework G7 - ONE\Java-trabajando-con-lambdas-streams-y-Spring-Framework\desafio\src\main\java\com\aluracursos\libros\desafio\services\IConvierteDatos.java

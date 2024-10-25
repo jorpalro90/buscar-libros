@@ -1,0 +1,10 @@
+com\aluracursos\libros\desafio\services\ConvierteDatos.class
+com\aluracursos\libros\desafio\model\DatosLibros.class
+com\aluracursos\libros\desafio\services\BuscarBiografia.class
+com\aluracursos\libros\desafio\model\DatosAutor.class
+com\aluracursos\libros\desafio\services\IConvierteDatos.class
+com\aluracursos\libros\desafio\principal\Principal.class
+com\aluracursos\libros\desafio\services\ConsumoAPI.class
+com\aluracursos\libros\desafio\services\BuscarLibro.class
+com\aluracursos\libros\desafio\DesafioApplication.class
+com\aluracursos\libros\desafio\model\Datos.class
